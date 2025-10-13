@@ -1,7 +1,7 @@
 +++
 title="Angewandte Datenanalyse für die öffentliche Verwaltung in Bayern"
 extra.display_newsletter=false
-extra.highlight_project="projekte/stmuk/_index.md"
+extra.highlight_project="projekte/gda/_index.md"
 extra.sliding_footer=true
 
 

@@ -151,14 +151,3 @@ Auto-generated directory containing the compiled website:
 - **`search_index.de.json`** - Search index for site search
 - **`elasticlunr.min.js`** - Search engine JavaScript library
 
-
-### `old_stuff/` - Legacy Files Archive
-Contains previous iteration of the website:
-- **Quarto-based files** (`.qmd` format) - Previous static site generator
-- **`ADA-Oeffentliche-Verwaltung-Website.Rproj`** - R Project configuration
-- **`_quarto.yml`** - Previous build configuration
-- **Legacy styling and content** - Project materials
-- **`icons/` & `projects/`** - Previous assets and project documentation
-
-
-# Changeable Variables

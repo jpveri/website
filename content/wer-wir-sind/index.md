@@ -30,4 +30,9 @@ Hochmotiviert und bestens qualifiziert, das sind wir:
 
 
 {{team(data_path='team.toml')}}
+
+{%side_text_block(title="Netzwerk",size="big", bg="light", compressed="true")%}
+Wir arbeiten eng mit Partnern aus Wissenschaft, Verwaltung und Wirtschaft zusammen und bringen Erfahrung aus Projekten mit diversen Kunden mit.
+{% end%}
+
 {{initiators(data_path='initiators.toml')}}
