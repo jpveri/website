@@ -27,16 +27,16 @@ Additional requirements:
 
 ## Running the Website
 
-Use the [zola](https://www.getzola.org/documentation/getting-started/cli-usage/) binary to test the website locally:
+Use zola to run the website locally. You can either [install zola globally](https://www.getzola.org/documentation/getting-started/installation/) via your package manager or [download the binary](https://www.getzola.org/documentation/getting-started/cli-usage/) and place it in the root of the website (in that case use `./zola` instead of `zola` for the following commands).
 
 ```bash
-./zola serve
+zola serve
 ```
 
 In order to build the website without a local server, use
 
 ```bash
-./zola build
+zola build
 ```
 
 ## Website Navigation 
