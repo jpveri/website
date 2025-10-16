@@ -14,14 +14,15 @@ logo = "images/initiators/Logo_BERD-NFDI.png"
 url = "https://berd.nfdi.de"
 
 [[partner]]
-name = "Bayerische Staatsministerium für Digitales"
-logo = "images/initiators/Logo_StMD.png"
-url = "https://www.stmd.bayern.de"
-
-[[partner]]
 name = "byte"
 logo = "images/initiators/Logo_byte.png"
 url = "https://www.byte.bayern"
+
+[[partner]]
+name = "Bayerische Staatsministerium für Digitales"
+logo = "images/initiators/Logo_StMD2.png"
+url = "https://www.stmd.bayern.de"
+
 
 
 [[client]]

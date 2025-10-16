@@ -1,5 +1,5 @@
 +++
-title="Was Wir Bieten"
+title="Was wir Bieten"
 extra.display_newsletter=false
 +++
 
